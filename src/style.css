@@ -2,6 +2,7 @@
 /*-------------- LAYOUT------------------- */
 *{
   box-sizing: border-box;
+  font-family: 'Zen Dots', cursive;
 }
 
 body{
@@ -20,6 +21,7 @@ body{
   top: 0px;
   left: 0px;
   color:rgb(83,175,19);
+  font-size: 75px;
 }
 
 table{
@@ -45,7 +47,6 @@ form{
 
 form input {
   background-color: rgb(152, 207, 113);
-  font-family: 'Zen Dots', cursive;
   border-color: rgb(83, 175, 19);
   font-size: 1em;
 }
